@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		74A11D0D1C971D4C0068571C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		74A11D0E1C971D7F0068571C /* businessLogic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = businessLogic.m; sourceTree = "<group>"; };
+		74A11D0F1C9722800068571C /* bizLogic2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bizLogic2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +18,7 @@
 			children = (
 				74A11D0D1C971D4C0068571C /* main.m */,
 				74A11D0E1C971D7F0068571C /* businessLogic.m */,
+				74A11D0F1C9722800068571C /* bizLogic2.m */,
 			);
 			sourceTree = "<group>";
 		};
